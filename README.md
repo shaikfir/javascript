@@ -1,6 +1,6 @@
-# Airbnb JavaScript Style Guide() {
+# Wix JavaScript Style Guide() {
 
-*A mostly reasonable approach to JavaScript*
+*Forked from airbnb style guide*
 
 
 ## Table of Contents
